@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  wordlist-english: ^1.2.1
+
+dependencies:
+  wordlist-english: 1.2.1
+
+packages:
+
+  /wordlist-english/1.2.1:
+    resolution: {integrity: sha512-vaiQQiu95UeON0WZFtiTrWfZmIiUd2rhrhMCBeEzwq3oTVzHCX8naGCqv/smSspE9kH2sN+E8lZyV0JZjqSzGw==}
+    dev: false
